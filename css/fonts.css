@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'ALK Life';
+    src: url('../fonts/alk-life-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/alk-life-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/alk-life-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/alk-life-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/alk-life-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/alk-life-webfont.svg#alk_liferegular') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Crimson Text';
+    src: url('../fonts/CrimsonText-BoldItalic.eot');
+    src: url('../fonts/CrimsonText-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/CrimsonText-BoldItalic.woff2') format('woff2'),
+        url('../fonts/CrimsonText-BoldItalic.woff') format('woff'),
+        url('../fonts/CrimsonText-BoldItalic.svg#CrimsonText-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
